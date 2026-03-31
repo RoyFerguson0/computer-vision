@@ -51,6 +51,15 @@ python FingerCountingProject.py
 python VolumeHandControl.py
 ```
 
+Or use UV
+
+```bash
+uv sync
+uv run HandTrackingProject.py
+```
+
+Same for Other examples
+
 ## Notes
 
 - Most scripts use your webcam.
